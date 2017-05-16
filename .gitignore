@@ -1,0 +1,14 @@
+﻿#Binärdateien
+**/bin/
+**/obj/
+**/packages
+
+#Visual Studio Settings und Cache
+**/.vs/
+*.user
+*.dbmdl
+
+# ncrunch Dateien
+*.ncrunchproject
+*.ncrunchsolution
+*.crunchsolution.cache
